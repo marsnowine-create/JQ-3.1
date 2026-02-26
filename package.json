@@ -1,6 +1,6 @@
 {
   "name": "景区智能体",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://marsnowine-create.github.io/JQ-3.1",
